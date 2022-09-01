@@ -16,14 +16,14 @@
     "@hint/utils-fs": "^1.0.13",
     "@hint/utils-network": "^1.0.17",
     "@hint/utils-types": "^1.1.7",
-    "jsdom": "^19.0.0",
+    "jsdom": "^20.0.0",
     "mutationobserver-shim": "^0.3.7"
   },
   "description": "hint connector for JSDOM",
   "devDependencies": {
     "@hint/parser-html": "^3.0.26",
     "@hint/utils-create-server": "^3.4.17",
-    "@types/jsdom": "^16.2.14",
+    "@types/jsdom": "^20.0.0",
     "@types/lodash": "^4.14.181",
     "@types/node": "^17.0.14",
     "@types/sinon": "^10.0.11",
