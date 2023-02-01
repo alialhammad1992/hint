@@ -14,7 +14,7 @@
     "@hint/utils-fs": "^1.0.13",
     "@hint/utils-string": "^1.0.12",
     "@hint/utils-types": "^1.1.7",
-    "content-type": "^1.0.4",
+    "content-type": "^1.0.5",
     "lodash": "^4.17.21",
     "request": "^2.88.2"
   },
